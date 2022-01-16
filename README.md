@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash04&show_icons=true&theme=radical)
+I am Palash. I am a Masters student in Artificial Intelligence at the Indian Institute of Science, Bangalore. </br>
+Here you will find Machine Learning and Deep Learning treasure. </br>
+Feel free to clone projects, raise issues and submit PRs if you feel making something better.
+
+![Palash GitHub stats](https://github-readme-stats.vercel.app/api?username=palash04&show_icons=true&theme=radical&hide=stars)
